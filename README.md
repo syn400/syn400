@@ -22,3 +22,5 @@
 
 <img align="left" alt="firebase" width="50px" src="https://user-images.githubusercontent.com/51235892/192286397-c6642577-93f4-4b89-8915-dacf398a2230.png" />
 
+<img align="left" alt="jquery" width="50px" src="https://user-images.githubusercontent.com/51235892/231720719-14016e9a-e113-46e7-afc9-16d1b4326e35.png" />
+
