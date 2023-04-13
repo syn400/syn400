@@ -1,6 +1,4 @@
-## Full-time manufacturing machine setter at 3M Company. <br> I'm learning Front-End programming. 
-
-### Looking for a job 👀
+## Front-End developer at Unlimitech Co.
 
 ### Tools and languages that I use:
 
@@ -23,4 +21,8 @@
 <img align="left" alt="firebase" width="50px" src="https://user-images.githubusercontent.com/51235892/192286397-c6642577-93f4-4b89-8915-dacf398a2230.png" />
 
 <img align="left" alt="jquery" width="50px" src="https://user-images.githubusercontent.com/51235892/231720719-14016e9a-e113-46e7-afc9-16d1b4326e35.png" />
+
+<img align="left" alt="php" width="50px" src="https://user-images.githubusercontent.com/51235892/231722255-56d2e677-148f-43ab-a4bf-4aa6078fd9fc.png" />
+
+<img align="left" alt="php" width="50px" src="https://user-images.githubusercontent.com/51235892/231722828-706314ea-db8d-4910-ae9a-b13dc4519bc0.png" />
 
