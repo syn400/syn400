@@ -24,6 +24,4 @@
 
 <img align="left" alt="php" height="50px" src="https://user-images.githubusercontent.com/51235892/231722255-56d2e677-148f-43ab-a4bf-4aa6078fd9fc.png" />
 
-<img align="left" alt="php" width="50px" src="https://user-images.githubusercontent.com/51235892/231724074-0fb71000-ed0a-4978-8f0a-b8f6183a7ab7.png" />
-
 
