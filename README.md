@@ -1,4 +1,5 @@
-## Front-End developer at Unlimitech Co.
+## Front-End developer at Unlimitech.
+## Trainee DevOps at 5red.
 
 ### Tools and languages that I use:
 
