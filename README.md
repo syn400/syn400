@@ -25,4 +25,7 @@
 
 <img align="left" alt="php" height="50px" src="https://user-images.githubusercontent.com/51235892/231722255-56d2e677-148f-43ab-a4bf-4aa6078fd9fc.png" />
 
+<img align="left" alt="CakePHP" height="50px" src="https://github.com/user-attachments/assets/4ee9c8c4-705d-4d95-bd70-f664e5417194" />
+
+<img align="left" alt="Next.js" height="50px" src="https://github.com/user-attachments/assets/a886dba0-a804-41d5-82a4-16f807c20f36" />
 
